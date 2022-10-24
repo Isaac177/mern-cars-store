@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="971d9090-9adc-4e30-af1a-4aea2364e905" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/DownloadIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/roundedIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/successIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/workers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/assets/img/xMarkCircle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseCalendar/CourseCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseCalendar/CustomCalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseCalendar/CustomCalendar.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseCalendar/CustomCalendar.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseCalendar/useCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/CourseListCell/CourseListCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/TestSummaryCell/TestSummaryCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/CheckboxCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/CourseCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/EndCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/MarkCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/NameCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/OperationCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/StartCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/StatusCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/StatusList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/ThCells/ThCells.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/actionPopup/ActionPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/actionPopup/ActionPopup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/actionPopup/Actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/AssignedPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignementPopup/AssignmentPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/ToExcel/ToExcel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/ToExcel/toExcel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/ToExcel/toExcel.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/ToExcel/toExcel.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/assignedBtn/AssignedBtn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/assignedBtn/AssignedBtn.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/assignedBtn/AssignedBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/assignedBtn/AssignedBtn.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/courses/Courses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/courses/Courses.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/courses/Courses.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/courses/smallBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/lastBtns/LastBtnCancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/lastBtns/LastBtnSubmit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/lastBtns/LastBtns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/lastBtns/LastBtns.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/lastBtns/LastBtns.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/popupBtn/popupBtn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/popupBtn/popupBtn.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/popupBtn/popupBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/buttons/popupBtn/popupBtn.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/coursesListPopup/CoursesListPopup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/coursesListPopup/CoursesListPopup.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/coursesListPopup/CoursesListPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/coursesListPopup/CoursesListPopup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/directionPopup/Direction.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/directionPopup/Direction.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/directionPopup/Direction.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/directionPopup/DirectionPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/editAction/EditActionPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/editAction/editAction.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedCoursesCell/IsAssignedCoursesCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedPopup/IsAssignedPopup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedPopup/IsAssignedPopup.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedPopup/IsAssignedPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedPopup/IsAssignedPopup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedTest/IsAssignedTest.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedTest/IsAssignedTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/isAssignedTest/IsAssignedTestsCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/pagination.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/usePagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/popupSubtitleSeaarch/PopupSubSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryTest/TestSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryTest/TestSummary.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableCells/TableCells.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/CheckboxTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/CourseMarkTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/CourseStatusTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/CourseTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/EmployeeTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/EndDateTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/NoDataTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/OperationTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/StartDateTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/tableColumn/TableColumn.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/testList/TestList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/testList/TestListCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/testList/testList.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/AssignedBtn-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/AssignedPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/CheckboxCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/CourseCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/CourseListCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/CourseListPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/DirectionPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/EndCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/IsAssignedPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/IsAssignedTest-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/IsAssignedTestCelll-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/NameCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/OperationPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/Operations-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/StartCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/StatusCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/StatusList-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/SummaryPopup-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/TestList-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/TestListCell-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/TestSummary-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/slices/popupBtn-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/resources/views/blogs.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GZiTnndHfDdHPV2dnJgDo6qHgd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/admin/Documents/car-store-fullstack/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/admin/Documents/car-store-fullstack/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="971d9090-9adc-4e30-af1a-4aea2364e905" name="Changes" comment="" />
+      <created>1666602516780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666602516780</updated>
+      <workItem from="1666602518863" duration="1439000" />
+      <workItem from="1666605514887" duration="1584000" />
+      <workItem from="1666607521816" duration="2018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
