@@ -136,9 +136,9 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.sass" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/blogs.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/bookCard/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/marginer/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typings/react-fontawesome.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/aboutUs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/bookingSteps.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
@@ -148,10 +148,7 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +205,7 @@
       <workItem from="1666602518863" duration="1439000" />
       <workItem from="1666605514887" duration="1584000" />
       <workItem from="1666607521816" duration="12253000" />
-      <workItem from="1666674284017" duration="4417000" />
+      <workItem from="1666674284017" duration="8811000" />
     </task>
     <servers />
   </component>
