@@ -32,7 +32,6 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.css.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/adminTable/AdminTable2.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.css.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/assignedPopup/Assigned.sass" afterDir="false" />
@@ -81,9 +80,6 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.css.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/messageSuccess/MessageSuccess.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/pagination.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/pagination/usePagination.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/popupSubtitleSeaarch/PopupSubSearch.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/components/summaryPopup/SummaryPopup.css.map" afterDir="false" />
@@ -136,9 +132,8 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.sass" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/blogs.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/aboutUs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/bookingSteps.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/car/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typings/car.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
@@ -148,8 +143,13 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa496b71b862b7a419ab92613e48824c37bb6f14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/button/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,21 +173,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/admin/Documents/car-store-fullstack/src/app/components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Users/admin/Documents/car-store-fullstack/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/car-store-fullstack/src/app/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/admin/Documents/car-store-fullstack/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/app/components" />
@@ -205,7 +205,13 @@
       <workItem from="1666602518863" duration="1439000" />
       <workItem from="1666605514887" duration="1584000" />
       <workItem from="1666607521816" duration="12253000" />
-      <workItem from="1666674284017" duration="8811000" />
+      <workItem from="1666674284017" duration="15147000" />
+      <workItem from="1667138832892" duration="594000" />
+      <workItem from="1667402154896" duration="597000" />
+      <workItem from="1667457527037" duration="3076000" />
+      <workItem from="1668004837179" duration="598000" />
+      <workItem from="1668238221312" duration="699000" />
+      <workItem from="1668271441129" duration="596000" />
     </task>
     <servers />
   </component>

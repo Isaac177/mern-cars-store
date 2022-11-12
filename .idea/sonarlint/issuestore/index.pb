@@ -13,10 +13,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 @
 module-name.d.ts,c/f/cf16f8a87b7b1dc2efe3632977d79d3a1cf2002b
-B
-tailwind.config.js,0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4
-R
-"src/typings/react-burger-menu.d.ts,f/a/fa496b71b862b7a419ab92613e48824c37bb6f14
 V
 &src/app/components/navbar/navItems.tsx,9/f/9f5cd8303ab70980f0233f7afaa54c556f3841e8
 Q
@@ -29,3 +25,9 @@ A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
 =
 src/index.tsx,5/a/5ab44fe33ca96299f51ad4778a73e425b92bf439
+=
+src/index.css,c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4
+V
+&src/app/components/responsive/index.ts,2/b/2bd5a44fd9a61845a0c72be08746b8dc67cba0ea
+U
+%src/app/components/marginer/index.tsx,c/9/c98f469dede0b08ba52ae918ce9246bc81d18fe7
