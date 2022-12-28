@@ -5,10 +5,6 @@
 src/app/hooks.ts,3/7/37a0a9f7cc87c73a1781aeb77a6d090700c7de94
 @
 src/app/store.ts,3/c/3c1a6bc04b0c8d3c887cd17f53a0eb9902fe40ca
-<
-package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
-?
-craco.config.js,d/c/dc8684dd9b1371aee46724f40001122dc551e063
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 @
@@ -19,8 +15,6 @@ Q
 !src/app/components/logo/index.tsx,9/0/90a5d2a18add6a983a74db422796af7fc532cd29
 S
 #src/app/components/navbar/index.tsx,f/0/f0468077679ab34f12bc361e458219b44637c310
-;
-src/App.tsx,8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
 A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
 =

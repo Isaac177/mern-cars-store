@@ -4,14 +4,15 @@ import tw from "twin.macro";
 import { ICar } from '../../../typings/car';
 import {Button} from "../button";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faEllipsisH, faTachometerAlt} from "@fortawesome/free-solid-svg-icons";
+import {faEllipsisH, faFillDrip, faTachometerAlt} from "@fortawesome/free-solid-svg-icons";
 
 interface ICarProps extends ICar {
 }
 
 const CarContainer = styled.div`
     width: 16.5em;
-    height: 22.5em;
+    min-height: 22.2em;
+    max-height: 25.2em;
     box-shadow: 0 1.3px 17px -2px rgba(0, 0, 0, 0.4);
     ${tw`
         flex
@@ -62,7 +63,7 @@ const SmallText = styled.p`
         inline-flex
         text-xs
         font-thin
-        text-gray-500
+        /*text-gray-500*/
     `};
 `;
 
@@ -86,8 +87,8 @@ const MonthlyPrice = styled.h5`
 const SmallIcon = styled.span`
     ${tw`
         text-red-500
-        fill-current
-        text-xs
+        /*fill-current*/
+        text-sm
         mr-1
     `};
 `;
@@ -103,25 +104,14 @@ const CarDetailsContainer = styled.div`
 const CarDetail = styled.div`
     ${tw`
         flex
-        flex-col
         items-center
-        justify-center
     `};
 `;
 
-const CarDetailName = styled.h6`
+const CarInfo = styled.h6`
     ${tw`
         text-gray-400
         text-xs
-        font-thin
-    `};
-`;
-
-const CarDetailInfo = styled.h6`
-    ${tw`
-        text-gray-500
-        text-sm
-        font-bold
     `};
 `;
 
@@ -170,21 +160,27 @@ export const Car = (props: ICarProps) => {
             <DailyPrice>${dailyPrice}<SmallText>/Day</SmallText></DailyPrice>
             <MonthlyPrice>${monthlyPrice}<SmallText>/Month</SmallText></MonthlyPrice>
         </PricesContainer>
+        <Seperator />
         <CarDetailsContainer>
             <CarDetail>
                 <SmallIcon>
                     <FontAwesomeIcon icon={faTachometerAlt} />
                 </SmallIcon>
-                <CarDetailInfo>{mileage}</CarDetailInfo>
+                <CarInfo>{mileage}</CarInfo>
             </CarDetail>
-            <Seperator />
             <CarDetail>
                 <SmallIcon>
                     <FontAwesomeIcon icon={faEllipsisH} />
                 </SmallIcon>
-                <CarDetailInfo>{gearType}</CarDetailInfo>
+                <CarInfo>{gearType}</CarInfo>
             </CarDetail>
-            <Seperator />
+            <CarDetail>
+                <SmallIcon>
+                    <FontAwesomeIcon icon={faFillDrip} />
+                </SmallIcon>
+                <CarInfo>{gas}</CarInfo>
+            </CarDetail>
         </CarDetailsContainer>
+        <RentButton text="Rent Now" />
     </CarContainer>
 };
