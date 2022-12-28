@@ -11,14 +11,10 @@
 module-name.d.ts,c/f/cf16f8a87b7b1dc2efe3632977d79d3a1cf2002b
 V
 &src/app/components/navbar/navItems.tsx,9/f/9f5cd8303ab70980f0233f7afaa54c556f3841e8
-Q
-!src/app/components/logo/index.tsx,9/0/90a5d2a18add6a983a74db422796af7fc532cd29
 S
 #src/app/components/navbar/index.tsx,f/0/f0468077679ab34f12bc361e458219b44637c310
 A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
-=
-src/index.tsx,5/a/5ab44fe33ca96299f51ad4778a73e425b92bf439
 =
 src/index.css,c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4
 V

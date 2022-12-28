@@ -8,6 +8,7 @@ import {Marginer} from "../../components/marginer";
 import {BookingSteps} from "./bookingSteps";
 import {AboutUs} from "./aboutUs";
 import {TopCars} from "./topCars";
+import {Footer} from "../../components/footer";
 
 
 const PageContainer = styled.div`
@@ -34,6 +35,7 @@ export const HomePage = () => {
             <AboutUs />
             <Marginer margin='8em' direction='vertical'/>
             <TopCars />
+            <Footer />
         </PageContainer>
     );
 }

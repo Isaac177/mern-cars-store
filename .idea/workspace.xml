@@ -132,7 +132,7 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.sass" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/blogs.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typings/react-carousel.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/footer/index.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
@@ -142,15 +142,12 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/835da56f32df714aaed6285a5b7fc3a7807851e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc8684dd9b1371aee46724f40001122dc551e063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ab44fe33ca96299f51ad4778a73e425b92bf439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90a5d2a18add6a983a74db422796af7fc532cd29" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/car/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/car/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/logo/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/logo/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +215,7 @@
       <workItem from="1668493684112" duration="3395000" />
       <workItem from="1668836212877" duration="1220000" />
       <workItem from="1668964326663" duration="1187000" />
-      <workItem from="1672227780549" duration="5068000" />
+      <workItem from="1672227780549" duration="10754000" />
     </task>
     <servers />
   </component>
