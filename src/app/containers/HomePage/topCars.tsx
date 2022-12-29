@@ -9,15 +9,14 @@ import {useMediaQuery} from "react-responsive";
 import {SCREENS} from "../../components/responsive";
 
 const TopCarsContainer = styled.div`
+   max-width: 1080px;
     ${tw`
-        max-w-screen-2xl
         w-full
         flex
         flex-col
         items-center
         justify-center
         md:justify-start
-        px-3
         md:px-0
         mb-10
     `}
@@ -41,6 +40,7 @@ const CarsContainer = styled.div`
     ${tw`
         w-full
         flex
+        flex-col
         flex-wrap
         justify-center
         md:justify-start
