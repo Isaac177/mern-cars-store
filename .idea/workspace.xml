@@ -147,7 +147,7 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +218,7 @@
       <workItem from="1672227780549" duration="12308000" />
       <workItem from="1672277486802" duration="7026000" />
       <workItem from="1672377461439" duration="88000" />
-      <workItem from="1672378061644" duration="331000" />
+      <workItem from="1672378061644" duration="1000000" />
     </task>
     <servers />
   </component>
