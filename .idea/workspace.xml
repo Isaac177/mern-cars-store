@@ -158,7 +158,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nestjs-car-store" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -218,7 +218,7 @@
       <workItem from="1672227780549" duration="12308000" />
       <workItem from="1672277486802" duration="7026000" />
       <workItem from="1672377461439" duration="88000" />
-      <workItem from="1672378061644" duration="1000000" />
+      <workItem from="1672378061644" duration="1040000" />
     </task>
     <servers />
   </component>
