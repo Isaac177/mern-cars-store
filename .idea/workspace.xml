@@ -134,7 +134,9 @@
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/.env" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nestjs-car-store/ormconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/database/database.module.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
@@ -144,12 +146,9 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/car/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/car/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/topCars.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +217,8 @@
       <workItem from="1668836212877" duration="1220000" />
       <workItem from="1668964326663" duration="1187000" />
       <workItem from="1672227780549" duration="12308000" />
-      <workItem from="1672277486802" duration="1810000" />
+      <workItem from="1672277486802" duration="7026000" />
+      <workItem from="1672377461439" duration="88000" />
     </task>
     <servers />
   </component>
