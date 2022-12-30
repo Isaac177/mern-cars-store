@@ -132,12 +132,6 @@
       <change afterPath="$PROJECT_DIR$/../admin_redux/src/views/panelTable.sass" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/blogs.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/resources/views/create-blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/ormconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/database/database.module.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/vcs.xml" afterDir="false" />
@@ -174,6 +168,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -218,7 +213,7 @@
       <workItem from="1672227780549" duration="12308000" />
       <workItem from="1672277486802" duration="7026000" />
       <workItem from="1672377461439" duration="88000" />
-      <workItem from="1672378061644" duration="1040000" />
+      <workItem from="1672378061644" duration="1416000" />
     </task>
     <servers />
   </component>
