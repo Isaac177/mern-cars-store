@@ -135,6 +135,7 @@
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/components/cars/cars.module.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/components/cars/cars.resolver.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/components/cars/cars.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/components/cars/entities/car.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nestjs-car-store/src/components/components.module.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-todo-master/.idea/modules.xml" afterDir="false" />
@@ -145,8 +146,9 @@
       <change afterPath="$PROJECT_DIR$/../todolist/public/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/edit.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolist/resources/views/todo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestjs-car-store/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestjs-car-store/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/.prettierrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/package.json" afterDir="false" />
@@ -154,8 +156,7 @@
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/src/app.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/src/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nestjs-car-store/src/database/database.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/src/database/database.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestjs-car-store/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nestjs-car-store/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +165,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nestjs-car-store" />
@@ -231,7 +239,7 @@
       <workItem from="1672277486802" duration="7026000" />
       <workItem from="1672377461439" duration="88000" />
       <workItem from="1672378061644" duration="4726000" />
-      <workItem from="1672557732959" duration="2799000" />
+      <workItem from="1672557732959" duration="5070000" />
     </task>
     <servers />
   </component>
