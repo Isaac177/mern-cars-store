@@ -19,3 +19,11 @@ V
 &src/app/components/responsive/index.ts,2/b/2bd5a44fd9a61845a0c72be08746b8dc67cba0ea
 U
 %src/app/components/marginer/index.tsx,c/9/c98f469dede0b08ba52ae918ce9246bc81d18fe7
+K
+nestjs-car-store/.gitignore,3/4/34f9b7da7708158f0a4adbf2a5467590d88c610a
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+nestjs-car-store/README.md,a/d/ad756875f26113a557e7c54adcc5f057a4ae4971
+E
+nestjs-car-store/.env,4/6/46f5e4795e77b18b95e072280783116ec21bc516

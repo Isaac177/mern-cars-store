@@ -1,6 +1,6 @@
-import { Module } from '@nestjs/common';
-import { TypeOrmModule } from '@nestjs/typeorm';
-import { Connection } from 'typeorm';
+import { Module } from "@nestjs/common";
+import { TypeOrmModule } from "@nestjs/typeorm";
+import { Connection } from "typeorm";
 
 @Module({
   imports: [TypeOrmModule.forRoot()],
@@ -9,7 +9,7 @@ import { Connection } from 'typeorm';
 export class DatabaseModule {
   constructor(connection: Connection) {
     if (connection.isConnected) {
-      console.log('Database connection established');
+      console.log("Database connection established");
     }
   }
 }
